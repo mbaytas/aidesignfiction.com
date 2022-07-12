@@ -4,3 +4,10 @@
 - Twitter >>> [@aidesignfiction](https://twitter.com/aidesignfiction)
 
 Business inquiries >>> [WEATHERLIGHT &rarr;](https://www.weatherlight.com/)
+
+<style>
+  * {
+  background-color: #000;
+  color: #fff;
+  }
+</style
