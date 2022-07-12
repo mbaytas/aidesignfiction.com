@@ -1,2 +1,6 @@
-# aidesignfiction
-AI Design Fiction Website
+# AI Design Fiction
+
+- Instagram >>> [@aidesignfiction](https://www.instagram.com/aidesignfiction/)
+- Twitter >>> [@aidesignfiction](https://twitter.com/aidesignfiction)
+
+Business inquiries >>> [WEATHERLIGHT &rarr;](https://www.weatherlight.com/)
