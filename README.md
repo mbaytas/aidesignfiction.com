@@ -7,7 +7,7 @@ Business inquiries >>> [WEATHERLIGHT &rarr;](https://www.weatherlight.com/)
 
 <style>
   * {
-  background-color: #000;
-  color: #fff;
+  background-color: #000 !important;
+  color: #fff !important;
   }
 </style
