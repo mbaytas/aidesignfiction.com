@@ -1,9 +1,9 @@
 # AI Design Fiction
 
-- Instagram >>> [@aidesignfiction](https://www.instagram.com/aidesignfiction/)
-- Twitter >>> [@aidesignfiction](https://twitter.com/aidesignfiction)
+- Instagram >> [@aidesignfiction](https://www.instagram.com/aidesignfiction/)
+- Twitter >> [@aidesignfiction](https://twitter.com/aidesignfiction)
 
-Business inquiries >>> [WEATHERLIGHT &rarr;](https://www.weatherlight.com/)
+Business inquiries >> [WEATHERLIGHT &rarr;](https://www.weatherlight.com/)
 
 <style>
   * {
